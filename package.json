@@ -1,0 +1,19 @@
+{
+  "name": "documate-dummy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bukharim96/documate-dummy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bukharim96/documate-dummy/issues"
+  },
+  "homepage": "https://github.com/bukharim96/documate-dummy#readme"
+}
